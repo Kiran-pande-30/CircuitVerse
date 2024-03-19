@@ -1,6 +1,6 @@
 "files": [
   {
-    "source": "",
-    "translation": ""
+    "source": "/config/locales/views/about/en.yml",
+    "translation": "/config/locales/views/about/%two_letters_code%.yml"
   }
 ]
